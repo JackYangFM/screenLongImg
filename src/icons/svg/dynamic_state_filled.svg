@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>dynamic state_filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="9 21 -1.13686838e-13 17 32 0 27 28 17 24"></polyline>
+    </defs>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-454.000000, -523.000000)">
+            <g id="动态-填充" transform="translate(454.000000, 523.000000)">
+                <g id="路径-8">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#EAC788" xlink:href="#path-1"></use>
+                    <path d="M34,-1 C34,-2.24794039 27,5.67150303 13,22.7583302 L13,30.7583302" stroke="#000000" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M13.5,22 L13.5,30" id="路径-8-copy" stroke="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

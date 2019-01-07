@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>comnent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-328.000000, -523.000000)">
+            <g id="评论" transform="translate(328.000000, 523.000000)">
+                <polyline id="路径" fill="#D8D8D8" opacity="0.400000006" points="6 17 0 17 0 0 25 0 25 9"></polyline>
+                <polygon id="矩形-copy-3" fill="#D8D8D8" points="3 6 32 6 32 27 23 27 18 31 13 27 3 27"></polygon>
+                <path d="M10,13.5 L25,13.5" id="路径-6" stroke="#000000"></path>
+                <path d="M10,20.5 L25,20.5" id="路径-6-copy" stroke="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

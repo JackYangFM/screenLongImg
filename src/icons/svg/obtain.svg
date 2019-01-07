@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_obtain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="等级中心-当前页01" transform="translate(-144.000000, -638.000000)">
+            <g id="分组-16" transform="translate(145.000000, 635.000000)">
+                <g id="分组-5" transform="translate(0.000000, 2.000000)">
+                    <text id="?" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+                        <tspan x="2.315" y="11">?</tspan>
+                    </text>
+                    <circle id="椭圆形" stroke="#000000" cx="5" cy="7" r="5.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

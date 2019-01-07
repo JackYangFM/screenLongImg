@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 -5.32907052e-15 15 4 15 24 0 19"></polygon>
+    </defs>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="等级中心-当前页" transform="translate(-214.000000, -386.000000)">
+            <g id="分组-14" transform="translate(215.000000, 378.000000)">
+                <g id="矩形" transform="translate(0.000000, 14.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#EAC788" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" fill="#000000" mask="url(#mask-2)" x="6.5" y="1.5" width="1" height="9"></rect>
+                </g>
+                <polygon id="矩形-copy-6" fill="#EAC788" transform="translate(23.000000, 26.000000) scale(-1, 1) translate(-23.000000, -26.000000) " points="16 13.5 30 17.8043478 30 38.5 16 33.1521739"></polygon>
+                <polygon id="矩形-copy-9" fill="#EAC788" transform="translate(14.500000, 13.000000) scale(-1, 1) rotate(-60.000000) translate(-14.500000, -13.000000) " points="7.25 0.442631645 16.8480762 11.0669873 21.75 25.5573684 10.7858984 14.5669873"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

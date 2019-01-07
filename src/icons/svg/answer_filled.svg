@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>answer_filled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-197.000000, -524.000000)">
+            <g id="1-填充" transform="translate(197.000000, 523.000000)">
+                <rect id="矩形" fill="#000000" x="21" y="22" width="11" height="1"></rect>
+                <rect id="矩形-copy-2" fill="#000000" x="17" y="30" width="15" height="1"></rect>
+                <path d="M26.8137085,9.13603897 L21.863961,4.1862915 L24.3388348,1.71141777 C25.7056698,0.344582746 27.9217472,0.344582746 29.2885822,1.71141777 C30.6554173,3.07825279 30.6554173,5.29433021 29.2885822,6.66116524 L26.8137085,9.13603897 Z M26.1066017,9.84314575 L7.01471863,28.9350288 L1.98640374,29.5635682 L2.06497116,23.9852814 L21.1568542,4.89339828 L26.1066017,9.84314575 Z" id="矩形-2" fill="#EAC788"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>club</title>
+    <desc>Created with Sketch.</desc>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-243.000000, -523.000000)" fill="#D8D8D8">
+            <g id="加入俱乐部" transform="translate(243.000000, 523.000000)">
+                <path d="M2,3 C6.66666667,-0.333333333 11.3333333,-0.333333333 16,3 C20.6666667,6.33333333 25.3333333,6.33333333 30,3 L30,22 C24.6666667,24.6666667 20,24.6666667 16,22 C12,19.3333333 7.33333333,19.3333333 2,22 L2,3 Z" id="矩形"></path>
+                <path d="M2.5,17 L2.5,32 L3,31.5 L2,31.5 L2.5,32 L2.5,17 Z M2.5,17 L2.5,2 L2,2.5 L3,2.5 L2.5,2 L2.5,17 Z" id="矩形" stroke="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

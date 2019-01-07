@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>update_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.77635684e-15 1.77635684e-15 1.77635684e-15 4.61538462 4.81333333 2.05128205"></polygon>
+        <polygon id="path-3" points="0 0 0 4.61538462 4.81333333 2.05128205"></polygon>
+        <linearGradient x1="7.56388395%" y1="24.7837811%" x2="93.2426032%" y2="75.3166634%" id="linearGradient-5">
+            <stop stop-color="#F6D9BD" offset="0%"></stop>
+            <stop stop-color="#E7B589" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.56388395%" y1="24.7837811%" x2="93.2426032%" y2="75.3166634%" id="linearGradient-6">
+            <stop stop-color="#E9C5A3" offset="0%"></stop>
+            <stop stop-color="#CF925F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.0045339,2.34611282 L15.4766304,5.54380148 C15.7834739,5.72310931 15.9720965,6.05180035 15.9720965,6.40719335 L15.9720965,12.8235759 C15.9720965,13.1789689 15.7834739,13.5076599 15.4766304,13.6869677 L10.0045339,16.8846564 C9.69283675,17.0668006 9.30716325,17.0668006 8.99546607,16.8846564 L3.52336955,13.6869677 C3.21652613,13.5076599 3.02790348,13.1789689 3.02790348,12.8235759 L3.02790348,6.40719335 C3.02790348,6.05180035 3.21652613,5.72310931 3.52336955,5.54380148 L8.99546607,2.34611282 C9.30716325,2.16396864 9.69283675,2.16396864 10.0045339,2.34611282 Z" id="path-7"></path>
+        <filter x="-6.7%" y="-18.8%" width="113.4%" height="124.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.85071216   0 0 0 0 0.798213982   0 0 0 0 0.75189206  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="32.6806092%" y1="0%" x2="68.8265594%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" stop-opacity="0.577077672" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.668506567" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="等级中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-21.000000, -9.000000)">
+            <g id="update_icon" transform="translate(20.000000, 9.000000)">
+                <g id="路径-14-copy-2" transform="translate(2.533333, 15.128205)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#47423F" xlink:href="#path-1"></use>
+                    <polygon fill="#FFFFFF" opacity="0.200000003" mask="url(#mask-2)" points="1.77333333 1.77635684e-15 1.77333333 4.61538462 6.58666667 2.05128205"></polygon>
+                </g>
+                <g id="路径-14-copy-3" transform="translate(11.146667, 15.384615)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#595048" transform="translate(2.406667, 2.307692) scale(-1, 1) translate(-2.406667, -2.307692) " xlink:href="#path-3"></use>
+                    <polygon fill="#FFFFFF" opacity="0.100000001" mask="url(#mask-4)" points="2.78666667 -8.8817842e-16 2.78666667 4.61538462 5.32 5.64102564 8.10666667 -0.256410256"></polygon>
+                </g>
+                <path d="M9.75226697,0.147415385 L17.4795083,4.66292638 C17.63293,4.7525803 17.7272413,4.91692582 17.7272413,5.09462231 L17.7272413,14.1361469 C17.7272413,14.3138434 17.63293,14.4781889 17.4795083,14.5678428 L9.75226697,19.0833538 C9.59641838,19.1744259 9.40358162,19.1744259 9.24773303,19.0833538 L1.5204917,14.5678428 C1.36706999,14.4781889 1.27275866,14.3138434 1.27275866,14.1361469 L1.27275866,5.09462231 C1.27275866,4.91692582 1.36706999,4.7525803 1.5204917,4.66292638 L9.24773303,0.147415385 C9.40358162,0.0563432949 9.59641838,0.0563432949 9.75226697,0.147415385 Z" id="多边形-copy-2" fill="url(#linearGradient-5)"></path>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <polygon id="路径-13" fill="#FFFFFF" opacity="0.100000001" points="1.26666667 4.87179487 9.62666667 8.97435897 17.7333333 4.61538462 9.37333333 7.10542736e-15"></polygon>
+                <polygon id="路径-13-copy" fill="url(#linearGradient-10)" opacity="0.100000001" points="3.04 5.64102564 9.62666667 8.97435897 12.4133333 7.43589744 5.32 4.35897436"></polygon>
+                <polygon id="路径-13-copy-2" fill="#735C4A" style="mix-blend-mode: multiply;" opacity="0.100000001" transform="translate(9.246667, 14.631741) scale(1, -1) translate(-9.246667, -14.631741) " points="2.53333333 14.135276 9.37333333 19.2307692 15.96 13.6224554 9.37333333 10.0327119"></polygon>
+                <path d="M8,11 L6,11 L9.5,6 L13,11 L11,11 L11,14 L8,14 L8,11 Z" id="矩形-2" fill="#47423F"></path>
+            </g>
+        </g>
+    </g>
+</svg>
